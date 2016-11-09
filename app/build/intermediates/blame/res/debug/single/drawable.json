@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.jpg",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\login.jpg"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_navigation_close_inverted.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_navigation_close_inverted.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_action_search.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_action_search.png"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_un.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\tab_bg_un.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_high.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\tab_high.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_with_radius.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\shape_rectangle_with_radius.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_with_radius.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\shape_rectangle_with_radius.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_voice_search.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_voice_search.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\btn_border.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.jpg",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\img.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_with_radius.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\shape_rectangle_with_radius.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_high.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\tab_high.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_un.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\tab_bg_un.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.jpg",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\home.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_un.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\tab_bg_un.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.jpg",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.jpg",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\img.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.jpg",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor_white.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\color_cursor_white.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.jpg",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\img.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\btn_border.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_suggestion.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_suggestion.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_navigation_arrow_back_inverted.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_navigation_arrow_back_inverted.png"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_navigation_arrow_back.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\oval.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_high.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\tab_high.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\krinal.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\krinal.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.jpg",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\pause.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_voice_search_inverted.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_voice_search_inverted.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.jpg",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_border.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\src\\main\\res\\drawable\\btn_border.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\oval.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_navigation_close.png",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\ic_action_navigation_close.png"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\src\\main\\res\\drawable\\oval.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\home\\santhosh\\Desktop\\Tutorgirish1\\D:\\hariindu\\Tutorgirish1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    }
+]
